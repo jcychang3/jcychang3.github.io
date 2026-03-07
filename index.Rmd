@@ -2,13 +2,13 @@
 title: "Jackie Chang"
 image: "website_temp.jpg"
 links:
-  - label: LinkedIn
+  - label: '`r fontawesome::fa("linkedin")`'
     url: "https://linkedin.com/in/jcychang3"
   # - label: Twitter
   #   url: "https://twitter.com/"
-  # - label: GitHub
-  #   url: "https://github.com/"
-  - label: Email
+  - label: '`r fontawesome::fa("github")`'
+    url: "https://github.com/jcychang3"
+  - label: '`r fontawesome::fa("envelope")`'
     url: "mailto:jackie.c.chang2000@gmail.com"
 output:
   postcards::trestles
