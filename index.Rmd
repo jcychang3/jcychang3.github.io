@@ -1,6 +1,6 @@
 ---
 title: "Jackie Chang"
-image: "IMG_2528.png"
+image: "website_temp.jpg"
 links:
   - label: LinkedIn
     url: "https://linkedin.com/in/jcychang3"
