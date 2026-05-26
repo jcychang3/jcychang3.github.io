@@ -9,7 +9,7 @@ links:
   - label: '`r fontawesome::fa("github")`'
     url: "https://github.com/jcychang3"
   - label: '`r fontawesome::fa("envelope")`'
-    url: "mailto:jackie.c.chang2000@gmail.com"
+    url: "mailto:jcychang3@nycu.edu.tw"
 output:
   postcards::trestles
 ---
